@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ] : MonoBehaviour
+public class 1212 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
