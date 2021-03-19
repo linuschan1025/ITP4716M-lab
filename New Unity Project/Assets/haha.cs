@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class 1212 : MonoBehaviour
+public class haha : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        
+        GameObject go;
     }
 
     // Update is called once per frame
